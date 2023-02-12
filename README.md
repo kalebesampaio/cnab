@@ -1,6 +1,6 @@
 # CNAB
 O projeto é um banco onde é armazenado as transações e informações do cliente por meio da CNAB.
-# Stacks: Python, Django, HTML5, CSS3, JavaScript
+#### Stacks: Python, Django, HTML5, CSS3, JavaScript
 ## É necessário ter python 3.11.1 ou maior, não foi testado em versões inferiores
 ## Use os seguintes comandos no seu terminal para rodar a aplicação
 ### Clone o repositório primeiro
