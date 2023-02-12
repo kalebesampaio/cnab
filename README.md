@@ -28,4 +28,4 @@ python manage.py migrate
 python manage.py runserver
 ```
 
-## Repositório Front: https://github.com/kalebesampaio/cnab
+## Repositório: https://github.com/kalebesampaio/cnab
