@@ -4,7 +4,6 @@
 ### Clone o repositório primeiro
 ```
 git clone git@github.com:kalebesampaio/cnab.git
-cd CNAB
 ```
 ### Crie um ambiente virtual
 ```
